@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_poxecto_sxe_poxecto_sxe,poxecto_sxe.poxecto_sxe,model_poxecto_sxe_poxecto_sxe,base.group_user,1,1,1,1
